@@ -15,30 +15,30 @@ If your website integrates Google Tag Manager, adding forms to your site doesn't
 
 3. Add the template to your tag by clicking on "Add to Workspace".
 
-4. Copy the key from the application and place it in the "Forms.io Key" field in your tag after the template is added.
+4. First copy the dev-id (<div id='DIV-ID'></div>) and place it in the ”Forms.io Key”
 
-5. In the triggers tab add Form submission.
+5. Then copy the key from the application and place it next to the dev-id in the "Forms.io Key" field in your tag after the template is added.
 
-6. Add a trigger by clicking on "Triggering" below the Tag and choose "Form Submission".
+6. In the triggers tab add Form submission
 
-7. Click on the Submit button in the upper right corner of the page.
+7. Add a trigger by clicking on "Triggering" below the Tag and choose "Form Submission".
 
-8. Upload the Forms.io SDK file in the root directory of your website to customize your opt-ins. The default service worker will be used by the website if the SDK file is not uploaded.
+8. Click on the Submit button in the upper right corner of the page.
 
-9. Insert the Google Tag Manager script into your website and head over to your website to fill the form.
+9. Upload the Forms.io SDK file in the root directory of your website to customize your opt-ins. The default service worker will be used by the website if the SDK file is not uploaded.
 
-10. All responses captured will be stored in the forms.io application under the response tab.
+10. Insert the Google Tag Manager script into your website and head over to your website to fill the form.
 
 
 ### Support
 Contact our support team through “Live Chat” or “Help us improve” options through our application.
 
 
-![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-1.png)
+![alt text](https://infinity.500apps.com/img/forms/Gtm-image-1.png)
 
-![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-2.png)
+![alt text](https://infinity.500apps.com/img/forms/Gtm-image-2.png)
 
-![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-3.png)
+![alt text](https://infinity.500apps.com/img/forms/Gtm-image-3.png)
 
 
 Alternatively, you can contact us through mail at feedback@500apps.com
