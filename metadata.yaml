@@ -1,7 +1,9 @@
 homepage: "https://forms.io"
 documentation: ""
 versions:
+  # New release
+  - sha: 4b7a2977b45cd9584489ba37fb75e84b755cfcd5
+    changeNotes: Added Element Id field.
   # First release
   - sha: 8373b52130f4dcd64efbbae0d3aba3c7ef45fc61
     changeNotes: Added template.
- 

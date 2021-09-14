@@ -15,19 +15,21 @@ If your website integrates Google Tag Manager, adding forms to your site doesn't
 
 3. Add the template to your tag by clicking on "Add to Workspace".
 
-4. First copy the dev-id (<div id='DIV-ID'></div>) and place it in the ”Forms.io Key”
+4. Copy the element id from your website and paste it in "Element Id ".
 
-5. Then copy the key from the application and place it next to the dev-id in the "Forms.io Key" field in your tag after the template is added.
+5. Navigate to the Forms application, click on the embed icon on the form of your choice.
 
-6. In the triggers tab add Form submission
+6. Click GTM icon from the slieout copy the code and paste in "Forms.io Key" field in your tag.
 
 7. Add a trigger by clicking on "Triggering" below the Tag and choose "Form Submission".
 
 8. Click on the Submit button in the upper right corner of the page.
 
-9. Upload the Forms.io SDK file in the root directory of your website to customize your opt-ins. The default service worker will be used by the website if the SDK file is not uploaded.
+9. Click publish button and gtm script is generated.
 
-10. Insert the Google Tag Manager script into your website and head over to your website to fill the form.
+10. Insert the Google Tag Manager script into your website and the form is reflected on your website
+
+11. Track your form responses in Formsio application.
 
 
 ### Support
